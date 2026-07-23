@@ -10,7 +10,7 @@
 
 
 <div align="center">
-✨ Hi, I'm Felipe ✨
+🤖 Hi, I'm Felipe 🤖
 
 Electrical Engineering student at UFSCar. Control systems, embedded, and automation.
 Interning at Andritz Hydro on excitation systems and researching MPC-I control for a free-floating space manipulator.
@@ -21,7 +21,7 @@ Interning at Andritz Hydro on excitation systems and researching MPC-I control f
 
 <div align="center">
 
-#### ✨ Languages and Tools ✨
+#### 🛠️ Languages and Tools 🛠️
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,7 +39,7 @@ Interning at Andritz Hydro on excitation systems and researching MPC-I control f
 
 <div align="center">
 
-#### ✨ Contact Me ✨
+#### ✉️ Contact Me ✉️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebachiegaboggi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeboggi)
