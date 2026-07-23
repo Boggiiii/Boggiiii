@@ -1,12 +1,12 @@
 <div align="center">
-<pre>
+<pre><code>
           _ / \      
       .-*'`    `*-.._.-'/        o
     < * ))     ,       (  o   o   o      |\__/,|   (`\
       `*-._`._(__.--*"`.\  o        o  _.|o o  |_   ) )
                                       -(((---(((--------
-</pre>
-</div>
+</code></pre>
+
 
 <div align="center">
 ✨ Hi, I'm Felipe ✨
