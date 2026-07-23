@@ -8,7 +8,9 @@
                                       -(((---(((--------
 ```
 </pre>
+</div>
 
+<div align="center">
 ✨ Hi, I'm Felipe ✨
 
 Electrical Engineering student at UFSCar. Control systems, embedded, and automation.
