@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Boggiiii/Boggiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+  _____ _____ _     ___ ____  _____
+ |  ___| ____| |   |_ _|  _ \| ____|
+ | |_  |  _| | |    | || |_) |  _|
+ |  _| | |___| |___ | ||  __/| |___
+ |_|   |_____|_____|___|_|   |_____|
+```
 
-Here are some ideas to get you started:
+✨ Hi, I'm Felipe ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Electrical Engineering student at UFSCar. Control systems, embedded, and automation.
+Interning at Andritz Hydro on excitation systems and researching MPC-I control for a free-floating space manipulator.
+
+</div>
+
+---
+
+<div align="center">
+
+#### ✨ Languages and Tools ✨
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+#### ✨ Contact Me ✨
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebachiegaboggi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeboggi)
+
+</div>
