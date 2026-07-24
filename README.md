@@ -35,13 +35,3 @@ Interning at Andritz Hydro on excitation systems and researching MPC-I control f
 
 </div>
 
----
-
-<div align="center">
-
-#### ✉️ Contact Me ✉️
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebachiegaboggi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeboggi)
-
-</div>
