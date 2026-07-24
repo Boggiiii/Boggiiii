@@ -10,7 +10,8 @@
 
 
 <div align="center">
-🤖 Hi, I'm Felipe an Electrical Engineering undergrad at UFSCar 🤖\
+🤖 Hi, I'm Felipe an Electrical Engineering undergrad at UFSCar 🤖  
+
 
 
 By day, I'm split between research on robotic manipulators and interning at Andritz Hydro, where I work with the automation team on excitation systems for large electrical machines. By night (and weekends), I'm playing in D&D, gaming, or buried in a good book.
